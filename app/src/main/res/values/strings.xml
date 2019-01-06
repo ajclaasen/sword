@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sword</string>
+    <string name="anger">Anger</string>
+    <string name="sadness">Sadness</string>
+    <string name="fear">Fear</string>
+    <string name="joy">Joy</string>
 </resources>
